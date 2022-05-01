@@ -12,7 +12,6 @@ That's it. You are ready to go. To execute this project just type
 npm start
 ```
 
-Enjoy...!
 
 ![image](https://user-images.githubusercontent.com/79974839/166133855-2ab80133-76b7-435a-b221-d746cd3a55e2.png)
 
